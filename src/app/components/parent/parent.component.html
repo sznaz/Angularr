@@ -1,0 +1,8 @@
+<p>Parent component</p>
+<button (click)="showChild()">Show child</button>
+<input type="text" [(ngModel)]="name" />
+
+<app-child *ngIf="isValid" [name]="name">
+  <h2 #projectedCont>Hello im passing this from parent</h2>
+  
+  </app-child>
