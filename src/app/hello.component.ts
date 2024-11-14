@@ -13,5 +13,12 @@ private somePrivateProp : any;
 
 logSomeThing(){
   console.log('HelloComponent ; logSomething:: Something!')
+  console.log('HelloComponent ; logSomething:: Something!')
+  console.log('HelloComponent ; logSomething:: Something!')
+  console.log('HelloComponent ; logSomething:: Something!')
+  console.log('HelloComponent ; logSomething:: Something!')
+  console.log('HelloComponent ; logSomething:: Something!')
+  console.log('HelloComponent ; logSomething:: Something!')
+  console.log('HelloComponent ; logSomething:: Something!')
 }
 }
